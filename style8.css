@@ -1,0 +1,30 @@
+body{
+  background-image: url("stupa_borobudur.jpg");
+  background-size: cover;
+}
+
+.satu{
+  height: 300px;
+  width: 600px;
+  background-color: white;
+  overflow: scroll;
+  background-image: url("avocado.jpg");
+  background-repeat: repeat-y;
+  font-weight: bold;
+  font-size: 16px
+}
+
+.dua{
+  color: green;
+  text-align: left;
+}
+.tiga{
+  color: red;
+  text-align: right;
+  padding-right: 20px
+}
+
+p{
+  color: blue;
+  text-align: right;
+}
